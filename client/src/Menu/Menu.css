@@ -1,0 +1,23 @@
+.Menu {
+    padding: 10px;
+}
+.Menu-list {
+    margin-top: 50px;
+}
+.Menu-ul {
+    list-style-type: none;
+}
+.Menu-li {
+    margin-bottom: 10px;
+}
+.Menu-a {
+    text-decoration: none;
+    color: black;
+}
+.Menu-div {
+    display: inline-block;
+    padding: 10px 40px;
+}
+.Menu-a:hover {
+    color: #793bff;
+}

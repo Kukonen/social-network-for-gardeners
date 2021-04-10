@@ -1,0 +1,11 @@
+.Main {
+    display: flex;
+    height: 100vh;
+}
+.Main-children-block-side {
+    flex: 1;
+}
+.Main-children-block-center {
+    flex: 3;
+    background-color: red;
+}

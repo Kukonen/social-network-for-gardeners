@@ -3,7 +3,7 @@ import React from "react";
 import './Menu.css'
 
 const Menu = () => {
-    const isLogged = true;
+    const isLogged = false;
 
     return (
         <div className="Menu Main-children-block-side">

@@ -13,6 +13,7 @@
 .Menu-a {
     text-decoration: none;
     color: black;
+    font-family: PlayfairDisplay;
 }
 .Menu-div {
     display: inline-block;

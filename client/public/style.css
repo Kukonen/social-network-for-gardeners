@@ -1,4 +1,8 @@
 @font-face {
-    font-family: 'Rajdhani';
-    src: local('Rajdhani'), url(./fonts/Rajdhani/Rajdhani-Regular.ttf) format('truetype');
+    font-family: 'PlayfairDisplay';
+    src: local('PlayfairDisplay'), url(./fonts/PlayfairDisplay/PlayfairDisplay-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'YanoneKaffeesatz';
+    src: local('YanoneKaffeesatz'), url(./fonts/YanoneKaffeesatz/YanoneKaffeesatz-VariableFont_wght.ttf) format('truetype');
 }
